@@ -1,0 +1,21 @@
+.contact {
+  padding: 20px;
+}
+label {
+  font-weight: bold;
+  margin-bottom: 5px;
+  padding: 10px;
+  margin: 10px;
+  font-size: medium;
+}
+.btn {
+  padding: 6px 10px;
+  background-color: #3b71ca;
+  color: white;
+  border: none;
+  font-size: x-large;
+  border-radius: 10px;
+}
+.btn:hover {
+  background-color: green;
+}

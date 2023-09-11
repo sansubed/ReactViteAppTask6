@@ -1,0 +1,16 @@
+/* CSS retaled to the App.jsx */
+.box {
+  background: red;
+  /* padding : clockwise: top, right, bottom, left*/
+  /* padding: 10px all sides  gap between you and the cloth*/
+  /* padding: 10px(top-bottom) 10px (left-right) */
+  /* border: thickness is related to the elemnet, part of the element */
+  /* margin: is not the part of you, it's outside the element */
+  /* box model for inline element ???
+    id for css module
+    */
+
+  padding: 10px 50px 20px 40px;
+  margin: 10px 0px 0px 40px;
+  border: 10px solid blue;
+}

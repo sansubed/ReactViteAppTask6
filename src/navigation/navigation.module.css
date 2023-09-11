@@ -1,0 +1,27 @@
+.navbar {
+  background-color: #ba601c;
+  color: white;
+  padding: 20px 20px;
+}
+
+.navlist {
+  list-style-type: circle;
+  display: flex;
+  justify-content: center;
+  padding: 0;
+}
+
+.navItem {
+  margin: 0 20px;
+}
+
+.navItem a {
+  text-decoration: none;
+  color: white;
+  font-weight: bold;
+  font-size: 1.2rem;
+}
+
+.navItem a:hover {
+  text-decoration: underline;
+}

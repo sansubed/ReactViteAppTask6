@@ -1,0 +1,21 @@
+.header {
+  background-color: #ba601c;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px, 20px;
+}
+
+.image {
+  width: 50px;
+  height: 50px;
+  margin-top: 10px;
+  margin-right: 10px;
+  margin-bottom: 10px;
+}
+
+.title {
+  font-size: 1.5rem;
+}
